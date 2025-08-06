@@ -67,6 +67,20 @@ const Build = () => {
             className="mx-auto h-auto max-h-[70vh] w-auto"
           />
         </div>
+
+        <div className="max-w-5xl mx-auto bg-white p-8 rounded-lg flex mt-10">
+          <img
+            src={PalletIcon}
+            alt="Pallet Icon"
+            className="mb-20 justify-start"
+          />
+         
+          {/* Testimonial quote */}
+          <blockquote className="text-xl text-gray-700 mb-6 border-l-4 border-blue-500 pl-6 ml-10 mt-10">
+            "My team loves Attio's reporting system because it's so dynamic. We
+            can splice our data in so many different ways and combinations."
+          </blockquote>
+        </div>
       </div>
     </section>
   );
