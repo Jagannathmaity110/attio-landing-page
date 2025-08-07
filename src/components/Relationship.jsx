@@ -6,7 +6,7 @@ import DoptImg from "../assets/dopt.png";
 
 const Relationship = () => {
   return (
-    <section className="bg-white py-16 sm:py-24 px-4 sm:px-6 lg;px-8">
+    <section className="bg-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl sm:text-4xl text-gray-950 font-bold justify-start  ">
           Real-time relationship <br /> need real-time data.
