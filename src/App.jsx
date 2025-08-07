@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Build from './components/Build'
 import Relationship from './components/Relationship'
 import Design from './components/Design'
+import Scale from './components/Scale'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Build/>
       <Relationship/>
       <Design/>
+      <Scale/>
     </>
   )
 }
