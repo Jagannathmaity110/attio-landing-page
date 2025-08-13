@@ -7,6 +7,7 @@ import Design from './components/Design'
 import Scale from './components/Scale'
 import Particle from './components/Particle'
 import DreamCRM from './components/DreamCRM'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Scale/>
       <Particle/>
       <DreamCRM/>
+      <Footer/>
     </>
   )
 }
